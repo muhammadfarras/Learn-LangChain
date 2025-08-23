@@ -1,3 +1,4 @@
 env
 langchainenv/
 apps/env
+.ipynb_checkpoints
